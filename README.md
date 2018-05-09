@@ -1,6 +1,6 @@
 # Computing for Computer Scientists
 
-This repository holds the sources for the course homepage for Computing for Computer Scientists,
+This repository holds the sources for the course homepage for Computing for Computer Scientists,sdf
 a course for early-career EECS students at the University of Michigan.
 
 The site itself uses [Jekyll](https://jekyllrb.com/). To get started run
